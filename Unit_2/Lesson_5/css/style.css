@@ -1,0 +1,113 @@
+/* Default styling */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #2D2D2A;
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #000;
+    font-weight: 400;
+}
+
+body,
+main {
+    background-color: #f3eee3;
+}
+
+header,
+nav,
+section,
+footer {
+    background-color: #fff;
+}
+
+a:link {
+    color: #0000ff;
+}
+
+a:visited {
+    color: #551A8B;
+}
+
+a:hover {
+    color: #0000ff;
+}
+
+a:active {
+    color: #01019f;
+}
+
+/* Custom styling */
+
+.header {
+    color: #fff;
+    background-color: #C14953;
+}
+
+.header h1 {
+    color: #fff;
+    padding: 25px 0 0 25px;
+}
+
+.navigation {
+    background-color: #2D2D2A;
+}
+
+.navigation a:link,
+.footer a:link {
+    color: #fff;
+}
+
+.navigation a:visited,
+.footer a:visited {
+    color: #fff;
+}
+
+.navigation a:hover,
+.footer a:hover {
+    color: #fff;
+    font-weight: 700;
+}
+
+.navigation a:active,
+.footer a:active {
+    color: #acacac;
+}
+
+.navigation ul {
+    list-style: none;
+    padding: 25px;
+}
+
+.quote {
+    font-weight: 500;
+}
+
+.content {
+    background-color: #848FA5;
+    padding: 15px;
+}
+
+.content h3 {
+    text-decoration: underline;
+}
+
+.content p {
+    font-weight: 500;
+}
+
+.footer {
+    background-color: #C14953;
+    padding: 10px 25px;
+}
+
+.footer p {
+    color: #fff;
+}
