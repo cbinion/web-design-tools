@@ -93,6 +93,7 @@ a:active {
 .content {
     background-color: #848FA5;
     padding: 15px;
+    margin-bottom:20px;
 }
 
 .content h3 {
