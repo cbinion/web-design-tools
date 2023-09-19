@@ -1,5 +1,13 @@
-/* Default styling */
+/* Variables */
+:root {
+    /* Color palette */
+    --red: #C14953;
+    --beige: #f3eee3;
+    --light-grey: #b8beca;
+    --dark-grey: #2D2D2A;
+}
 
+/* Default styling */
 h1,
 h2,
 h3,
