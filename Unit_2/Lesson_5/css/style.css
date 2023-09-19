@@ -103,6 +103,7 @@ a:active {
 
 .main {
     background-color: var(--beige);
+    color: #000;
 }
 
 .quote {
@@ -125,6 +126,7 @@ a:active {
 
 .footer {
     background-color: var(--red);
+    color: #fff;
     padding: 1em 1.5em;
 }
 
