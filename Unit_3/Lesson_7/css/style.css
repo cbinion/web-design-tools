@@ -141,7 +141,6 @@ a:active {
 .award-table td {
     border: .125em solid #000;
     border-collapse: collapse;
-    border-spacing: 0;
     padding: 1em;
 }
 
