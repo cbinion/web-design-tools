@@ -135,7 +135,7 @@ a:active {
 .award-table caption {
     font-weight: 700;
     text-align: left;
-    padding: 0 0 1em 0;
+    padding: 1em 0 1em 0;
 }
 
 .award-table td {
