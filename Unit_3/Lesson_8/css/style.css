@@ -74,11 +74,6 @@ a:active {
     font-family: var(--header-font-family);
     font-size: 1.2em;
     font-weight: 500;
-    padding: 1.5em;
-}
-
-.navigation p a {
-    padding-right: 1em;
 }
 
 .navigation a:link,
@@ -112,8 +107,6 @@ a:active {
 
 .content {
     background-color: var(--light-grey);
-    padding: 1em;
-    margin-bottom: 1.5em;
 }
 
 .content h3 {
@@ -124,7 +117,6 @@ a:active {
     font-family: var(--body-font-family);
     color: #000;
     font-weight: 500;
-    width: 60%;
 }
 
 .award-table {
@@ -134,22 +126,15 @@ a:active {
 .award-table caption {
     font-weight: 700;
     text-align: left;
-    padding: 1em 0 1em 0;
 }
 
 .award-table td {
     border: .125em solid #000;
     border-collapse: collapse;
-    padding: 1em;
 }
 
 .content p {
     font-weight: 500;
-}
-
-.gallery img {
-    width: 250px;
-    height: 250px;
 }
 
 .contact {
@@ -161,10 +146,6 @@ a:active {
 }
 
 .contact-fieldset {
-    display: block;
-    margin: 0 auto 1.4em;
-    padding: 0 3em 0 2em;
-    width: 60%;
     border-radius: .5em;
 }
 
@@ -173,20 +154,7 @@ a:active {
 }
 
 .contact-fieldset label {
-    display: block;
     font-weight: 500;
-    padding: 1em 0 .5em 0;
-}
-
-.favorite-fieldset {
-    width: 100%;
-    margin: 1em 0;
-    display: inline;
-}
-
-.favorite-fieldset label {
-    display: inline;
-    padding: 1em .5em .5em .5em;
 }
 
 .contact input[type=text],
@@ -195,22 +163,11 @@ a:active {
 .contact textarea {
     font-size: .9em;
     font-weight: 600;
-    height: 30px;
-    width: 100%;
-    padding: .2em .2em .2em .6em;
-}
-
-.contact select {
-    height: 40px;
-    width: 100%;
-    margin: 0;
-    padding: 0;
 }
 
 .contact textarea {
     font-family: var(--body-font-family);
     font-size: 1.2em;
-    height: 200px;
 }
 
 .contact input[type=submit],
@@ -218,9 +175,6 @@ a:active {
     border-radius: .3em;
     font-size: 1em;
     font-weight: 500;
-    display: block;
-    margin: 0 auto;
-    padding: .7rem .5rem;
     cursor: pointer;
 }
 
@@ -233,7 +187,6 @@ a:active {
 }
 
 .contact input[type=reset] {
-    margin-top: 1em;
     background-color: #f5cccc;
 }
 
@@ -244,7 +197,6 @@ a:active {
 .footer {
     background-color: var(--red);
     color: #fff;
-    padding: 1em 1.5em;
 }
 
 .footer p {
