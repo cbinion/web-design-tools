@@ -141,15 +141,15 @@ a:active {
     font-family: var(--body-font-family)
 }
 
-.contact fieldset {
-    border-radius: .5em;
-}
-
 .contact-fieldset {
     border-radius: .5em;
 }
 
-.contact-fieldset legend {
+.favorite-fieldset{
+    border-radius: .5em;
+}
+
+.contact-fieldset .contact-legend {
     text-align: center;
 }
 

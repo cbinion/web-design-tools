@@ -27,9 +27,17 @@ body {
   margin: 1em 0 .5em 0;
 }
 
+.quote {
+  margin: 0 0 1em 0;
+}
+
 .content {
-  padding: 1em;
+  padding: 1.5em;
   margin-bottom: 1.5em;
+}
+
+.content-heading {
+  padding: 0 0 .75em 0;
 }
 
 .award-table {
@@ -44,7 +52,11 @@ body {
   padding: 1em;
 }
 
-.gallery img {
+.gallery .gallery-figure {
+  margin: 1em;
+}
+
+.gallery .gallery-image {
   width: 250px;
   height: 250px;
 }
@@ -63,6 +75,7 @@ body {
 }
 
 .favorite-fieldset {
+  padding: 1em;
   width: 100%;
   margin: 1em 0;
   display: inline;
@@ -102,6 +115,10 @@ body {
 
 .contact input[type=reset] {
   margin-top: 1em;
+}
+
+.contact-buttons {
+  padding: 1em;
 }
 
 .footer {
