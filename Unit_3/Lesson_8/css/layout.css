@@ -23,7 +23,7 @@ body {
   margin: 1em 0 0 0;
 }
 
-.main h2{
+.main .main-heading {
   margin: 1em 0 .5em 0;
 }
 
@@ -36,17 +36,17 @@ body {
   width: 60%;
 }
 
-.award-table caption {
-    padding: 1em 0 1em 0;
+.award-table .award-table-caption {
+  padding: 1em 0 1em 0;
 }
 
-.award-table td {
+.award-table .award-table-data {
   padding: 1em;
 }
 
 .gallery img {
-    width: 250px;
-    height: 250px;
+  width: 250px;
+  height: 250px;
 }
 
 .contact-fieldset {
@@ -57,53 +57,53 @@ body {
 }
 
 .contact-fieldset label {
-    display: block;
-    font-weight: 500;
-    padding: 1em 0 .5em 0;
+  display: block;
+  font-weight: 500;
+  padding: 1em 0 .5em 0;
 }
 
 .favorite-fieldset {
-    width: 100%;
-    margin: 1em 0;
-    display: inline;
+  width: 100%;
+  margin: 1em 0;
+  display: inline;
 }
 
 .favorite-fieldset label {
-    display: inline;
-    padding: 1em .5em .5em .5em;
+  display: inline;
+  padding: 1em .5em .5em .5em;
 }
 
 .contact input[type=text],
 .contact input[type=email],
 .contact select,
 .contact textarea {
-    height: 30px;
-    width: 100%;
-    padding: .2em .2em .2em .6em;
+  height: 30px;
+  width: 100%;
+  padding: .2em .2em .2em .6em;
 }
 
 .contact select {
-    height: 40px;
-    width: 100%;
-    margin: 0;
-    padding: 0;
+  height: 40px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
 }
 
 .contact textarea {
-    height: 200px;
+  height: 200px;
 }
 
 .contact input[type=submit],
 .contact input[type=reset] {
-    display: block;
-    margin: 0 auto;
-    padding: .7rem .5rem;
+  display: block;
+  margin: 0 auto;
+  padding: .7rem .5rem;
 }
 
 .contact input[type=reset] {
-    margin-top: 1em;
+  margin-top: 1em;
 }
 
 .footer {
-    padding: 1em 1.5em;
+  padding: 1em 1.5em;
 }

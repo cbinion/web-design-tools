@@ -109,7 +109,7 @@ a:active {
     background-color: var(--light-grey);
 }
 
-.content h3 {
+.content .content-heading {
     text-decoration: underline;
 }
 
@@ -123,17 +123,17 @@ a:active {
     border-collapse: collapse;
 }
 
-.award-table caption {
+.award-table .award-table-caption {
     font-weight: 700;
     text-align: left;
 }
 
-.award-table td {
+.award-table .award-table-data {
     border: .125em solid #000;
     border-collapse: collapse;
 }
 
-.content p {
+.content .content-text {
     font-weight: 500;
 }
 
@@ -199,6 +199,6 @@ a:active {
     color: #fff;
 }
 
-.footer p {
+.footer .footer-text {
     color: #fff;
 }
