@@ -26,22 +26,10 @@ body {
   padding: 1.75em 0 1em 4.75em;
 }
 
-.navigation p {
-  padding: 1.5em;
-}
-
-.navigation p a {
-  padding-right: 1em;
-}
-
-/* Layout styling for new navigation bar*/
-
-/* Set nav to sticky or fixed */
 .topnav {
   position: sticky;
 }
 
-/* Style the links inside the navigation bar */
 .topnav a {
   float: left;
   padding: 14px 16px;
