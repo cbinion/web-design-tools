@@ -49,7 +49,7 @@ body {
   float: left;
   padding: 1em;
   margin: 0 2em 2em 0;
-  border:2px solid #000;
+  border: 2px solid #000;
   border-radius: .5em;
 }
 
@@ -69,11 +69,11 @@ body {
   padding: 0 0 .75em 0;
 }
 
-.content-text{
+.content-text {
   padding: 0 0 1em 0;
 }
 
-.early-life-image{
+.early-life-image {
   float: right;
   width: 250px;
   margin: 0 1.5em 1em;
@@ -83,13 +83,13 @@ body {
   clear: both;
 }
 
-.career-image{
+.career-image {
   float: left;
   width: 250px;
   margin: 0 1.5em 1em;
 }
 
-.personal-life-image{
+.personal-life-image {
   float: right;
   width: 250px;
   margin: 0 1.5em 1em;
@@ -105,6 +105,35 @@ body {
 
 .award-table .award-table-data {
   padding: 1em;
+}
+
+.faq {
+  margin: 1em 0 0 0;
+}
+
+.faq ol li {
+  margin: 0 0 1em 1em;
+}
+
+.faq ul {
+  margin: .75em 0 1em 3em;
+}
+
+.faq dl {
+  padding: 1em;
+}
+
+.faq .back-to-top {
+  display: block;
+  margin: 0 0 1.5em 1em;
+}
+
+.faq dt {
+  margin: 0 0 1em 0;
+}
+
+#question-list {
+  margin: 1em;
 }
 
 .gallery .gallery-figure {

@@ -138,6 +138,15 @@ a:active {
     font-weight: 500;
 }
 
+.faq {
+    font-family: var(--body-font-family)
+}
+
+.faq dt {
+    font-size: 1.2em;
+    font-weight: 500;
+}
+
 .contact {
     font-family: var(--body-font-family)
 }
@@ -146,7 +155,7 @@ a:active {
     border-radius: .5em;
 }
 
-.favorite-fieldset{
+.favorite-fieldset {
     border-radius: .5em;
 }
 
