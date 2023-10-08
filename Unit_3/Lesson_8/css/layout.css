@@ -8,19 +8,21 @@ body {
 }
 
 .header {
-  overflow: auto;
+  overflow: visible;
+  height: 9.25em;
 }
-
 
 .logo {
   width: 100px;
   float: left;
-  margin: 1em 1.75em;
   border-radius: 35%;
+  position: fixed;
+  top: 1em;
+  left: 4.77em;
 }
 
-.header .header-text {
-  padding: 1.75em 0 1em 1em;
+.header-text {
+  padding: 1.75em 0 1em 4.75em;
 }
 
 .navigation p {
