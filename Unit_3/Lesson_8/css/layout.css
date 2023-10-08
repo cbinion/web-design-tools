@@ -7,8 +7,20 @@ body {
   margin: 0 3em 0;
 }
 
+.header {
+  overflow: auto;
+}
+
+
+.logo {
+  width: 100px;
+  float: left;
+  margin: 1em 1.75em;
+  border-radius: 35%;
+}
+
 .header .header-text {
-  padding: 1em 0 1em 1em;
+  padding: 1.75em 0 1em 1em;
 }
 
 .navigation p {
