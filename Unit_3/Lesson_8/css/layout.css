@@ -28,10 +28,22 @@ body {
 }
 
 .quote {
-  margin: 0 0 1em 0;
+  width: 250px;
+  float: left;
+  padding: 1em;
+  margin: 0 2em 2em 0;
+  border:2px solid #000;
+  border-radius: .5em;
+}
+
+.quote img {
+  width: 250px;
 }
 
 .content {
+  box-sizing: border-box;
+  min-width: 350px;
+  overflow: auto;
   padding: 1.5em;
   margin-bottom: 1.5em;
 }
@@ -40,8 +52,34 @@ body {
   padding: 0 0 .75em 0;
 }
 
+.content-text{
+  padding: 0 0 1em 0;
+}
+
+.early-life-image{
+  float: right;
+  width: 250px;
+  margin: 0 1.5em 1em;
+}
+
+.career {
+  clear: both;
+}
+
+.career-image{
+  float: left;
+  width: 250px;
+  margin: 0 1.5em 1em;
+}
+
+.personal-life-image{
+  float: right;
+  width: 250px;
+  margin: 0 1.5em 1em;
+}
+
 .award-table {
-  width: 60%;
+  width: 75%;
 }
 
 .award-table .award-table-caption {
