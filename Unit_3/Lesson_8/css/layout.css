@@ -19,6 +19,7 @@ body {
   position: fixed;
   top: 1em;
   left: 4.77em;
+  z-index: 999;
 }
 
 .header-text {
