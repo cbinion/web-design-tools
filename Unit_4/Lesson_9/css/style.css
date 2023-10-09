@@ -143,11 +143,6 @@ a:active {
     text-align: left;
 }
 
-.award-table .award-table-data {
-    border: .125em solid #000;
-    border-collapse: collapse;
-}
-
 .content .content-text {
     font-weight: 500;
 }
