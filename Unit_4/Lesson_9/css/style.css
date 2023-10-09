@@ -204,6 +204,7 @@ a:active {
 
 .contact input[type=submit] {
     background-color: #ccf5d7;
+    border: 2px #000 solid;
 }
 
 .contact input[type=submit]:hover {
@@ -212,6 +213,7 @@ a:active {
 
 .contact input[type=reset] {
     background-color: #f5cccc;
+    border: 2px #000 solid;
 }
 
 .contact input[type=reset]:hover {

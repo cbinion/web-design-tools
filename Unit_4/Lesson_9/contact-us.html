@@ -44,17 +44,17 @@
       <form id="contact-form" action="mailto:cbinion@dallascollege.edu" method="post" name="contact-form">
         <p>
           <label for="contact-name" title="Enter your name.">Name</label>
-          <input type="text" name="contact-name" id="contact-name" placeholder="Enter your name" required>
+          <input type="text" name="contact-name" class="w3-input w3-border w3-round" id="contact-name" placeholder="Enter your name" required>
         </p>
 
         <p>
           <label for="contact-email" title="Enter your email address.">Email Address</label>
-          <input type="email" name="contact-email" id="contact-email" placeholder="Enter your email address" required>
+          <input type="email" name="contact-email" class="w3-input w3-border w3-round" id="contact-email" placeholder="Enter your email address" required>
         </p>
 
         <p>
           <label for="contact-type" title="Choose a message type">Message type</label>
-          <select name="contact-type" id="contact-type">
+          <select name="contact-type" class="w3-input w3-border w3-round" id="contact-type">
             <option value="question">Question</option>
             <option value="comment">Comment</option>
             <option value="concern">Concern</option>
@@ -63,7 +63,7 @@
 
         <p>
           <label for="contact-message" title="Enter your comment, question or concern.">Message</label>
-          <textarea name="contact-message" id="contact-message" required></textarea>
+          <textarea name="contact-message" class="w3-input w3-border w3-round" id="contact-message" required></textarea>
         </p>
 
         <fieldset class="favorite-fieldset">
@@ -119,8 +119,8 @@
         </fieldset>
 
         <p class="contact-buttons">
-          <input type="submit" value="Submit">
-          <input type="reset" value="Reset form">
+          <input class="w3-btn" type="submit" value="Submit">
+          <input class="w3-btn" type="reset" value="Reset form">
         </p>
 
       </form>
