@@ -115,15 +115,22 @@ body {
   padding: 1em;
 }
 
-.faq ol li {
-  margin: 0 0 1em 1em;
+.faq .question-list {
+  width: fit-content;
+  margin: 0 0 2em 1em;
 }
 
-.faq ul {
-  margin: .75em 0 1em 3em;
+.faq .question-list .w3-bar {
+  margin: 0;
+  padding: .5em;
+}
+
+.faq .w3-bar a {
+  padding: 1em;
 }
 
 .faq dl {
+  clear: both;
   padding: 1em;
 }
 
@@ -134,6 +141,10 @@ body {
 
 .faq dt {
   margin: 0 0 1em 0;
+}
+
+.faq ul {
+  margin: .75em 0 1em 3em;
 }
 
 #question-list {
