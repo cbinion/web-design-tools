@@ -1,0 +1,4 @@
+Turned 'About' Jon Stewart portrait pic and quote into a W3.CSS card.
+
+Added icons to main heading on all pages.
+Added creative commons icon to footer.
