@@ -23,6 +23,7 @@ body {
 }
 
 .header-text {
+  margin: 0;
   padding: 1.75em 0 1em 4.75em;
 }
 
@@ -45,6 +46,7 @@ body {
 }
 
 .quote {
+  box-sizing: content-box;
   width: 250px;
   float: left;
   padding: 1em;
@@ -66,6 +68,7 @@ body {
 }
 
 .content-heading {
+  margin: 0;
   padding: 0 0 .75em 0;
 }
 
