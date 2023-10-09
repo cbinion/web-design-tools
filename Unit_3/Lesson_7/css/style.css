@@ -187,7 +187,7 @@ a:active {
 
 .favorite-fieldset label {
     display: inline;
-    padding: 1em .5em .5em .5em;
+    padding: 0 .5em;
 }
 
 .contact input[type=text],
