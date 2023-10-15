@@ -253,6 +253,10 @@ a:active {
     font-size: 14px;
 }
 
+.about .portrait-image h2{
+    color: #fff;
+}
+
 .footer {
     background-color: var(--w3-color-scheme-blue-teal);
     color: #fff;

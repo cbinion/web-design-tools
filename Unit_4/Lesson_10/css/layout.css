@@ -220,6 +220,18 @@ body {
   padding: 1em;
 }
 
+.about {
+    margin: 4em 5em 0;
+}
+
+.about .portrait-image img {
+    width: 100%;
+}
+
+.about p {
+    margin: 15px 0;
+}
+
 .footer {
   padding: 1em 1.5em;
 }
