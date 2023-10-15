@@ -249,6 +249,10 @@ a:active {
     background-color: #d18f8f;
 }
 
+.about-small{
+    font-size: 14px;
+}
+
 .footer {
     background-color: var(--w3-color-scheme-blue-teal);
     color: #fff;
