@@ -255,6 +255,16 @@ a:active {
 
 .about .portrait-image h2{
     color: #fff;
+    background-color: var(--w3-color-scheme-blue-teal);
+    padding: .25em;
+}
+
+.color-scheme-text-blue-teal {
+    color: var(--w3-color-scheme-blue-teal);
+}
+
+.color-scheme-blue-teal {
+    background-color: var(--w3-color-scheme-blue-teal);
 }
 
 .footer {
