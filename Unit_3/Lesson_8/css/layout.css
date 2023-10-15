@@ -91,6 +91,10 @@ body {
   margin: 0 1.5em 1em;
 }
 
+.awards {
+  overflow: visible;
+}
+
 .award-table {
   width: 75%;
 }
@@ -163,7 +167,7 @@ body {
 
 .favorite-fieldset label {
   display: inline;
-  padding: 1em .5em .5em .5em;
+  padding: 0 .5em;
 }
 
 .contact input[type=text],
