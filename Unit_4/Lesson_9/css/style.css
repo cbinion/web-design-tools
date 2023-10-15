@@ -140,15 +140,16 @@ a:active {
     font-family: var(--body-font-family);
     color: #000;
     font-weight: 500;
-}
-
-.award-table {
     border-collapse: collapse;
 }
 
 .award-table .award-table-caption {
     font-weight: 700;
     text-align: left;
+}
+
+.award-table thead{
+    background-color: #93b975;
 }
 
 .w3-striped tbody tr:nth-child(even) {
