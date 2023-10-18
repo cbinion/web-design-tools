@@ -232,6 +232,10 @@ body {
     margin: 15px 0;
 }
 
+.about .work-experience {
+  margin: 0 0 1em 0;
+}
+
 .footer {
   padding: 1em 1.5em;
 }
