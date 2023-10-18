@@ -58,7 +58,11 @@ body {
   border-radius: .5em;
 }
 
-.quote img {
+.quote figure {
+  margin: 0;
+}
+
+.quote figure img {
   display: block;
   width: 250px;
   margin: 0.5em auto;
