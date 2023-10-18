@@ -1,15 +1,7 @@
-I need to include some more information about myself. Like:
+Submission
 
-"Think about this when you're writing your About Us page content. What story would I tell the world about me? If you
-were going to use this site as part of a professional portfolio, how would you showcase your skills to a prospective
-employer? You would likely want to tell them of all the technology and ideas you learned to implement to tell stories to
-the world. Think of all the experiences and developments you had while building this window to the world.
+https://2learnweb.brookhavencollege.edu/JonStewart/index.html
 
-Make sure you include pictures of people, locations and other relevant images that could elicit a positive response and
-increase engagement. Don't skimp on the design elements, either. This page is about us and should reflect our best
-image. Use the skills you've developed in this class to get creative and show off those skills.
+https://github.com/cbinion/web-design-tools
 
-To get you thinking, here is a link to Hub Spot, a popular marketing site, that guides site owners to tell their stories
-and get people excited to engage and come back for more. It is specifically about writing effective About Us pages.
-(https://blog.hubspot.com/marketing/remarkable-about-us-page-examples)"
-
+https://cbinion.github.io/web-design-tools/
