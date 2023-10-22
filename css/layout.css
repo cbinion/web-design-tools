@@ -50,12 +50,17 @@ body {
 
 .quote {
   box-sizing: content-box;
-  width: 250px;
+  width: 90%;
+  max-width: 300px;
   float: left;
   padding: 1em;
   margin: 0 2em 2em 0;
   border: 2px solid #000;
   border-radius: .5em;
+}
+
+.quote figure {
+  margin: 0;
 }
 
 .quote img {
