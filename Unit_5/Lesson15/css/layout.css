@@ -1,0 +1,246 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+}
+
+.header {
+  overflow: visible;
+  height: 9.5em;
+}
+
+.logo {
+  width: 100px;
+  float: left;
+  border-radius: 35%;
+  position: fixed;
+  top: .9em;
+  left: 2em;
+  z-index: 999;
+}
+
+.header-text {
+  margin: 0;
+  padding: 1.75em 0 1em 4.75em;
+}
+
+.topnav {
+  position: sticky;
+}
+
+.topnav a {
+  float: left;
+  padding: 14px 16px;
+}
+
+.main {
+  margin: 1em 5em 0;
+}
+
+.main .main-heading {
+  margin: 1em 0 .5em 0;
+}
+
+.main-heading-icon {
+  padding: 0 .5em 0 0;
+}
+
+.quote {
+  box-sizing: content-box;
+  width: 90%;
+  max-width: 300px;
+  float: left;
+  padding: 1em;
+  margin: 0 2em 2em 0;
+  border: 2px solid #000;
+  border-radius: .5em;
+}
+
+.quote figure {
+  margin: 0;
+}
+
+.quote img {
+  display: block;
+  width: 250px;
+  margin: 0.5em auto;
+}
+
+.content {
+  box-sizing: border-box;
+  min-width: 350px;
+  overflow: auto;
+  padding: 1.5em;
+  margin-bottom: 1.5em;
+}
+
+.content-heading {
+  margin: 0;
+  padding: 0 0 .75em 0;
+}
+
+.content-text {
+  padding: 0 0 1em 0;
+}
+
+.early-life-image {
+  float: right;
+  width: 250px;
+  margin: 0 1.5em 1em;
+}
+
+.career {
+  clear: both;
+}
+
+.career-image {
+  float: left;
+  width: 250px;
+  margin: 0 1.5em 1em;
+}
+
+.personal-life-image {
+  float: right;
+  width: 250px;
+  margin: 0 1.5em 1em;
+}
+
+.award-table {
+  width: 75%;
+}
+
+.award-table .award-table-caption {
+  padding: 1em 0 1em 0;
+}
+
+.award-table .award-table-data {
+  padding: 1em;
+}
+
+.faq .question-list {
+  width: fit-content;
+  margin: 0 0 2em 1em;
+}
+
+.faq .question-list .w3-bar {
+  margin: 0;
+  padding: .5em;
+}
+
+.faq .w3-bar a {
+  padding: 1em;
+}
+
+.faq dl {
+  clear: both;
+  padding: 1em;
+}
+
+.faq .back-to-top {
+  display: block;
+  margin: 0 0 1.5em 1em;
+}
+
+.faq dt {
+  margin: 0 0 1em 0;
+}
+
+.faq ul {
+  margin: .75em 0 1em 3em;
+}
+
+#question-list {
+  margin: 1em;
+}
+
+.gallery .gallery-figure {
+  margin: 1em;
+}
+
+.gallery .gallery-image {
+  width: 250px;
+  height: 250px;
+}
+
+.contact-fieldset {
+  display: block;
+  margin: 0 auto 1.4em;
+  padding: 0 3em 0 2em;
+  width: 60%;
+}
+
+.contact-fieldset label {
+  display: block;
+  font-weight: 500;
+  padding: 1em 0 .5em 0;
+}
+
+.favorite-fieldset {
+  padding: 1em;
+  width: 100%;
+  margin: 1em 0;
+  display: inline;
+}
+
+.favorite-fieldset label {
+  display: inline;
+  padding: 0 .5em;
+}
+
+.contact input[type=text],
+.contact input[type=email],
+.contact select,
+.contact textarea {
+  height: 30px;
+  width: 100%;
+  padding: .2em .2em .2em .6em;
+}
+
+.contact select {
+  height: 40px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.contact textarea {
+  height: 200px;
+}
+
+.contact input[type=submit],
+.contact input[type=reset] {
+  display: block;
+  margin: 0 auto;
+  padding: .7rem .5rem;
+}
+
+.contact input[type=reset] {
+  margin-top: 1em;
+}
+
+.contact-buttons {
+  padding: 1em;
+}
+
+.about {
+    margin: 4em 5em 0;
+}
+
+.about .portrait-image img {
+    width: 100%;
+}
+
+.about p {
+    margin: 15px 0;
+}
+
+.about .work-experience {
+  margin: 0 0 1em 0;
+}
+
+.footer {
+  padding: 1em 1.5em;
+}
