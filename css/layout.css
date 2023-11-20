@@ -226,15 +226,19 @@ body {
 }
 
 .about {
-    margin: 4em 5em 0;
+  margin: 4em 5em 0;
 }
 
 .about .portrait-image img {
-    width: 100%;
+  width: 100%;
 }
 
 .about p {
-    margin: 15px 0;
+  margin: 15px 0;
+}
+
+.about .learned {
+  margin: 0 0 2em 1.6em;
 }
 
 .about .work-experience {

@@ -260,6 +260,19 @@ a:active {
     padding: .25em;
 }
 
+.about .learned-topics {
+    font-family: var(--body-font-family);
+    color: #000;
+    font-weight: 500;
+    font-size: larger;
+}
+
+.about .learned {
+    font-family: var(--body-font-family);
+    color: #000;
+    font-weight: 400;
+}
+
 .color-scheme-text-blue-teal {
     color: var(--w3-color-scheme-blue-teal);
 }
